@@ -1,4 +1,4 @@
-# Saudi-English-Sentiment-Analysis-Code-Switching-Dataset(SESA-CSD)
+# Saudi-English-Sentiment-Analysis-Code-Switching-Dataset (SESA-CSD)
 This dataset was constructed from Ar-En
 Code-Switching Textual Dataset (ArE-CSTD) (Al-
 harbi et al., 2024). The original data was derived by the National Centre for Artificial Intelligence at the Saudi Data and Ar-
